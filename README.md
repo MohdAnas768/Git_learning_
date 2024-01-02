@@ -16,3 +16,8 @@ git clone URL<br>
 
 <b> add </b> adds new changed file <br>
 <b> Commit </b> record of changes (Screenshot) <br>
+
+
+<h1 style="font-size:25px;">Push Code in Github </h1> <br>
+
+<b> push </b> git push origin main <br>
