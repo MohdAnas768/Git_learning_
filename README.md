@@ -11,3 +11,8 @@ git config --global user.email "Name" <br>
 <h1 style="font-size:25px;">How to Clone repo </h1> <br>
 
 git clone URL<br>
+
+<h1 style="font-size:25px;">add and commit </h1> <br>
+
+<b> add </b> adds new changed file <br>
+<b> Commit </b> record of changes (Screenshot) <br>
