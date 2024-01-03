@@ -22,9 +22,7 @@ git clone URL<br>
 
 <b> push </b> git push origin main <br>
 
-<h2>Second Day of Learning practice</h2>
-
- Mohammad_Anas
-<p>Alhamdulilah learn fast</p>
-<h2>Congratulation My son</h2>
- Muslim_Ansari
+<h2>Second Day of Learning practice</h2> <br>
+<p>Alhamdulilah learn fast</p> <br>
+<h2>Congratulation My son</h2> <br>
+<h1> I Am Proud Of You </h1>
