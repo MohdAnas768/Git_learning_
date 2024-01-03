@@ -21,3 +21,5 @@ git clone URL<br>
 <h1 style="font-size:25px;">Push Code in Github </h1> <br>
 
 <b> push </b> git push origin main <br>
+
+<h2>Second Day of Learning practice</h2>
